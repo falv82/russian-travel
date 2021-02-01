@@ -1,0 +1,4 @@
+.places__image {
+    grid-area: item__image;
+    width: 100%;
+}
