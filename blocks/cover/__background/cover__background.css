@@ -1,10 +1,10 @@
-.cover_background {
+.cover__background {
     position: absolute;
     width: 100%;
     z-index: 1;
     opacity: 0.8;
 }
 
-.cover_background:hover {
+.cover__background:hover {
     opacity: 0.3;
 }
