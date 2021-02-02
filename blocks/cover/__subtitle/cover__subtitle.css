@@ -1,9 +1,8 @@
 .cover__subtitle {
-    width: 360px;
-    height: 66px;
-    margin: 0;
+    max-width: 360px;
     z-index: 2;
-    line-height: 1.22;
+    font-size: 18px;
+    line-height: 122%;
     text-align: center;
     margin-top: 32px;
 }
@@ -11,9 +10,9 @@
 
 @media(max-width: 320px) {
     .cover__subtitle {
-        width: 288px;
-        height: 48px;
+        max-width: 288px;
         font-size: 14px;
+        line-height: 114%;
         margin-top: 16px;
     }
 }

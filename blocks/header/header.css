@@ -3,7 +3,6 @@
     justify-content: space-between;
     align-items: flex-end;
     padding: 28px 48px 56px 48px;
-    max-height: 52px;
 }
 
 @media(max-width: 1024px) {

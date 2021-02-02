@@ -1,13 +1,16 @@
 .header__link {
     color: #ffffff;
-    text-decoration: none;
     margin-right: 18px;
+    text-decoration: none;
 }
 
 .header__link:last-child {
     margin: 0;
 }
 
-.header__link:hover, .header__link:active {
+.header__link:hover {
+    text-decoration: underline;
+}
+.header__link:visited {
     text-decoration: underline;
 }

@@ -1,7 +1,7 @@
 .body {
-    margin: 0;
-    font-family: 'interRegular', Arial, Helvetica, sans-serif;
+    font-family: 'inter', Arial, Helvetica, sans-serif;
     color: #ffffff;
+    background-color: #2A2C2F;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     -webkit-text-size-adjust: 100%;

@@ -16,7 +16,6 @@
     display: block;
     justify-content: space-between;
     margin: 64px 118px 24px 16px;
-    width: 186px;
-    height: 310px;
+    max-width: 186px;
     }
 }

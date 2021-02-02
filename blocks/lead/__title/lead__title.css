@@ -1,9 +1,8 @@
 .lead__title{
-    font-family: 'interBlack';
+    font-weight: 900;
     max-width: 720px;
-    min-height: 88px;
     font-size: 96px;
-    line-height: 1.04;
+    line-height: 104%;
     margin: 0 auto;
     text-align: center;
 }
