@@ -11,6 +11,7 @@
 @media(max-width: 768px) {
     .cover__title{
         font-size: 9.38vw;
+        margin: 14.974vw 0 0 0;
     }
 }
 
@@ -19,5 +20,6 @@
         font-size: 32px;
         max-width: 288px;
         line-height: 109%;
+        margin: 10.313vw 0 0 0;
     }
 }

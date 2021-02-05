@@ -16,14 +16,14 @@
     }
 }
 
-@media(max-width: 768px) {
+@media(max-width: 854px) {
     .place {
         grid-column-gap: 28px;
-        margin-bottom: 73px;
+        margin-bottom: 72px;
     }
 }
 
-@media(max-width: 540px) {
+@media(max-width: 640px) {
     .place {
         grid-template-columns: 1fr;
         grid-template-rows: auto auto auto auto;
@@ -35,10 +35,8 @@
         grid-row-gap: 32px;
         margin-bottom: 50px;
     }
-}
-
-@media(max-width: 768px) {
-    .place {
-        margin-bottom: 64px;
+    .place:last-child {
+        margin-bottom: 66px;
     }
 }
+
